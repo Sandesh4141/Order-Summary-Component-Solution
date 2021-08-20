@@ -29,8 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site : --> [live site:-)](https://brave-tesla-3d9bb7.netlify.app/)
 
 ### Built with
 
@@ -53,4 +52,4 @@ I learned lot of things from this challange.
 - Frontend Mentor - [@Sandesh4141](https://www.frontendmentor.io/profile/Sandesh4141)
 - Twitter - [@sandesh-sp](https://www.twitter.com/@Sandesh32971351)
 - Instagram - [@sandesh.sp41](https://www.instagram.com/sandesh.sp41)
-- Gmail - [contact me](mailto="sandeshpawar414141@gmail.com)
+- 
