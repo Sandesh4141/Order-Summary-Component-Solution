@@ -45,7 +45,7 @@ I learned lot of things from this challange.
 ### Useful resources
 
 - [w3schools](https://www.w3schools.com) - I really liked this pattern and will use it going forward.
-- [geeks for geeks](https://www.geeksforgeeks.com) - This is an amazing article which I'd recommend it to anyone still learning this concept.
+- [geeks for geeks](https://www.geeksforgeeks.org) - This is an amazing article which I'd recommend it to anyone still learning this concept.
 - [tutorials-point](https://www.tutorialspoint.com) - Everthing that you need to build projects.
 
 ## Author
