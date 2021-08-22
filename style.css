@@ -25,7 +25,7 @@ body{
 .container{
     max-width: 1440px;
     display: flex;
-    /* padding: 1em; */
+    padding: 1em;
     flex-direction: column;
     justify-content: center;
     align-items: center;
@@ -145,6 +145,7 @@ dd{
 @media (max-width:375px) {
     .container{
         max-width: 375px;
+        padding: 0;
     }
     .main-card{
         max-width: 85%;
