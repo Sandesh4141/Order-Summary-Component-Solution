@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site : --> [live site:-)](https://brave-tesla-3d9bb7.netlify.app/)
+- Live Site : --> [click here:-)](https://brave-tesla-3d9bb7.netlify.app/)
 
 ### Built with
 
